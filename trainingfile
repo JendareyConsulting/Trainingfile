@@ -1,0 +1,82 @@
+Certainly! Based on your goal of becoming a DevOps Engineer without an IT background, studying 15 hours per week, and preferring recent video resources, here's a tailored study plan that covers the topics you mentioned:
+
+Phase 1: Foundations of DevOps (4 weeks)
+
+Week 1:
+
+Linux Commands:
+Watch "Linux Command Line Full Course for Beginners" by freeCodeCamp.org (YouTube): https://youtu.be/2PGnYjbYuUo
+Week 2:
+
+Shell Scripting:
+Watch "Shell Scripting Tutorial for Beginners" by Traversy Media (YouTube): https://youtu.be/ak6irWS9P-g
+Week 3:
+
+Git & GitHub:
+Watch "Git and GitHub Crash Course" by Traversy Media (YouTube): https://youtu.be/SWYqp7iY_Tc
+Week 4:
+
+GitLab and Bitbucket:
+Watch "GitLab CI/CD Crash Course" by Traversy Media (YouTube): https://youtu.be/J4eoje_8_7I
+Watch "Bitbucket Pipelines Crash Course" by Traversy Media (YouTube): https://youtu.be/Zygw4UAxCdg
+Phase 2: Build and Dependency Management (4 weeks)
+
+Week 5:
+
+Maven:
+Watch "Maven Tutorial for Beginners" by Amigoscode (YouTube): https://youtu.be/-PoKJ6q6L_o
+Week 6:
+
+JBoss/Tomcat & HTTP:
+Watch "JBoss vs. Tomcat: Which One to Choose?" by TechWorld with Nana (YouTube): https://youtu.be/VCMWKfWwsT0
+Watch "HTTP Crash Course & Exploration" by Traversy Media (YouTube): https://youtu.be/iYM2zFP3Zn0
+Week 7:
+
+SonarQube / SonarCloud:
+Watch "SonarQube Tutorial for Beginners" by Simplilearn (YouTube): https://youtu.be/Ov3CDp6kT-E
+Week 8:
+
+Nexus:
+Watch "Nexus Repository Manager Tutorial" by Tech Primers (YouTube): https://youtu.be/6f8ZPAp51aI
+Phase 3: Continuous Integration and Deployment (6 weeks)
+
+Week 9:
+
+Jenkins:
+Watch "Jenkins Tutorial for Beginners" by TechWorld with Nana (YouTube): https://youtu.be/e3lCnm5C0yQ
+Week 10:
+
+Docker:
+Watch "Docker Tutorial for Beginners" by TechWorld with Nana (YouTube): https://youtu.be/3c-iBn73dDE
+Week 11:
+
+Kubernetes:
+Watch "Kubernetes Tutorial for Beginners" by TechWorld with Nana (YouTube): https://youtu.be/X48VuDVv0do
+Week 12:
+
+Ansible / Puppet:
+Watch "Ansible for Absolute Beginners" by TechWorld with Nana (YouTube): https://youtu.be/KLSPAMFg9g0
+Watch "Puppet Beginner Tutorial" by Puppet (YouTube): https://youtu.be/Ukusz9rXd_M
+Week 13:
+
+AWS (10 relevant services for DevOps Engineer):
+Watch the "AWS Certified DevOps Engineer - Full Course" by freeCodeCamp.org (YouTube): https://youtu.be/STKCRSUsyP0
+Week 14:
+
+GCP (4 relevant services for DevOps Engineer):
+Watch the "Google Cloud Platform (GCP) Full Course for Beginners" by freeCodeCamp.org (YouTube): https://youtu.be/fqMOX6JJhGo
+Phase 4: Monitoring and Infrastructure as Code (6 weeks)
+
+Week 15:
+
+Monitoring:
+Watch "Introduction to Monitoring" by TechWorld with Nana (YouTube): https://youtu.be/9XDXbMD_ok4
+Week 16:
+
+Terraform:
+Watch "Terraform Tutorial for Beginners" by TechWorld with Nana (YouTube): https://youtu.be/SLB_c_ayRMo
+Week 17-20:
+
+Apply your knowledge from previous phases to hands-on projects and explore additional resources as needed.
+Join relevant online communities or forums to connect with other DevOps enthusiasts and seek guidance.
+This study plan provides a structured path to learn key DevOps concepts and tools using recent video resources. Remember to practice hands-on exercises, work on projects, and join online communities to enhance your learning experience. Adjust the timelines based on your progress and available study time. Best of luck on your journey to becoming a DevOps Engineer!
